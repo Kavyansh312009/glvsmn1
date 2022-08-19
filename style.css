@@ -1,0 +1,36 @@
+.heading{
+    color: red;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.button{
+    letter-spacing:3;
+    font-size: 25px;
+}
+img{
+    width: 250px;
+    height: 250px;
+
+}
+#gl{
+  width:200px ;
+  height:70px ;  
+}
+.div{
+    background-color: darkgray;
+    margin-bottom:10px;
+}
+h5{
+    background-color: aliceblue;
+    border-radius: 10px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.body{
+    background-color: rgb(239, 239, 239);
+}
+.img{
+    padding-top: 50px;
+    border-radius: 25px;
+}
